@@ -40,3 +40,6 @@ still responds to Boids forces.
 ## Demo
 
 https://youtu.be/X7o9oruvoIY 
+
+## Report
+[InteractiveBoidsSimulation.pdf](https://github.com/user-attachments/files/34109788/InteractiveBoidsSimulation.pdf)
